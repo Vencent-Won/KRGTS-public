@@ -4,7 +4,7 @@ This repository is the implementation of **KRGTS** (Knowledge-enhanced Relation 
 
 ## Framework
 
-<img src="framework/framework.jpg" alt="framework" style="zoom: 100%;" />
+<img src="framework/framework.png" alt="framework" style="zoom: 100%;" />
 
 
 ## Environment
